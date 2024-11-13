@@ -1,0 +1,7 @@
+C:\Users\Onler\source\repos\oyun\oyun\obj\Debug\oyun.csprojAssemblyReference.cache
+C:\Users\Onler\source\repos\oyun\oyun\obj\Debug\oyun.csproj.CoreCompileInputs.cache
+C:\Users\Onler\source\repos\oyun\oyun\bin\Debug\oyun.exe.config
+C:\Users\Onler\source\repos\oyun\oyun\bin\Debug\oyun.exe
+C:\Users\Onler\source\repos\oyun\oyun\bin\Debug\oyun.pdb
+C:\Users\Onler\source\repos\oyun\oyun\obj\Debug\oyun.exe
+C:\Users\Onler\source\repos\oyun\oyun\obj\Debug\oyun.pdb
